@@ -95,3 +95,48 @@ h1 .struck{
 h1 .not{
     color: #30B868;
 }
+#hero-note-card .note-div{
+    max-width: 1360px;
+    height: 117px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+}
+#hero-note-card .note-div h2{
+    margin-bottom: 16px;
+}
+.hero-card{
+    max-width: 1360px;
+    display: flex;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    gap: 24px;
+    padding: 24px;
+    justify-content: space-around;
+    text-align: center;
+}
+.card{
+    width: 322px;
+    justify-content: center;
+    box-shadow: 0 0 10px gray;
+    border-radius: 8px;
+    align-items: center;
+    padding: 46px 24px;
+}
+.hero-card .card img{
+    background-color: #F95555;
+    border-radius: 50%;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+.hero-card h4{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #001931;
+}
+.hero-card p{
+    color: #627382;
+    line-height: 20px;
+}
+
