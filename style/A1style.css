@@ -52,7 +52,6 @@
     padding: 8px 12px;
     border: none;
     border-radius: 1000px;
-    margin-bottom: 116px;
 }
 #hero-banner .bf-btn:hover{
     background-color: green;
@@ -85,4 +84,14 @@
 #hero-banner .btn-2:hover{
     background-color: blueviolet;
     color: gray;
+}
+#hero-banner h1{
+    font-size: 72px;
+    font-weight: 700;
+}
+h1 .struck{
+    color: #FFFFFF;
+}
+h1 .not{
+    color: #30B868;
 }
