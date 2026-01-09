@@ -139,4 +139,29 @@ h1 .not{
     color: #627382;
     line-height: 20px;
 }
-
+#img-text-parent{
+    display: flex;
+    max-width: 1360px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+#img-text-parent .solution-text .ts{
+    color: #469165;
+    margin-bottom: 16px;
+}
+#img-text-parent .solution-text h2{
+    color: #001931;
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+#img-text-parent .personal{
+    color: #627382;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+#img-text-parent .capture{
+    color: #001931;
+    line-height: 20px;
+}
